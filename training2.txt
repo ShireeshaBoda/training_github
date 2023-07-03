@@ -1,1 +1,2 @@
 This is part of training
+This is an example of commit
