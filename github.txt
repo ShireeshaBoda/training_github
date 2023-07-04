@@ -1,0 +1,4 @@
+Welcome to Github
+
+1.Distributed
+2.Version Control
